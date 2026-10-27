@@ -1,0 +1,12 @@
+[
+  {"id":"leave-approval","question":"Who approves annual leave?","expected_document_ids":["leave-001"]},
+  {"id":"expense-deadline","question":"How soon must I submit expense receipts?","expected_document_ids":["expense-001"]},
+  {"id":"security-report","question":"What should I do if I suspect phishing?","expected_document_ids":["security-001"]},
+  {"id":"remote-work","question":"Can I work remotely and who approves it?","expected_document_ids":["remote-001"]},
+  {"id":"sick-notice","question":"Who should I notify when sick?","expected_document_ids":["sick-001"]},
+  {"id":"conduct-report","question":"How do I report harassment?","expected_document_ids":["conduct-001"]},
+  {"id":"onboarding","question":"What tasks are required for new employees?","expected_document_ids":["onboarding-001"]},
+  {"id":"travel","question":"When do I need travel approval?","expected_document_ids":["travel-001"]},
+  {"id":"leave-portal","question":"Where do I submit leave requests?","expected_document_ids":["leave-001"]},
+  {"id":"confidentiality","question":"How should I protect company confidential information?","expected_document_ids":["security-001"]}
+]
